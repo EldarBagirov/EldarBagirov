@@ -81,8 +81,8 @@
 
 | Курсы                                                           | Дата              |
 | ----------------------------------------------------------------| :---------------: |
-| netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
+| coreapp.ai/Функциональное тестирование ПО                           | 09/2023 - 12/2023 |
 
 --- -->
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=testrusau)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=EldarBagirov)
