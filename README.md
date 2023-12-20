@@ -3,21 +3,19 @@
 ---
 
 ### 👨‍💻 Немного обо мне:
-
 Технологии и интернет идут вперед семимиотными шагами, я решил не отставать и запрыгнуть в локомотив IT индустрии в качестве мануального тестировщика. Мне посчастливилось пройти обучение у Артема Русова, тестировщика с именем и аудиторией более 158.000 человек. В основном обучался тестированию веб-приложений (front + back)., однако так же разбирал и практиковал тестирование мобильных приложений на базе Android и IOS.
 
-- 📫 Как связаться со мной: [![Gmail Badge](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Mail.Ru_Logo_2018.svg/1200px-Mail.Ru_Logo_2018.svg.png)](bagirov.eldar@bk.ru)
-
+- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artsiomrusau/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.rusau@gmail.com)
 
 ---
 
 ### 🤝 Социальные сети:
 
-   <div id="badges">
+  <div id="badges">
     <a href="https://www.linkedin.com/in/artsiomrusau/" target="_blank">
-      <img src="![Alt text](image.png)" width="40" height="40" alt="vk" />
+      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
-    <a href="https://t.me/eldar_bagirov" target="_blank">
+    <a href="https://t.me/artsiom_qa" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
   </div>
