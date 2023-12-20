@@ -1,11 +1,12 @@
-# Приветствую, с вами начинающий мануальный тестировщик Эльдар!
+# Приветствую, с вами начинающий тестировщик Эльдар!
 
+<div align = "center" ><img src="https://media.giphy.com/media/BdhtvnPILhdYs/giphy.gif" width="500"/> </div>
 ---
 
 ### 👨‍💻 Немного обо мне:
 Технологии и интернет идут вперед семимиотными шагами, я решил не отставать и запрыгнуть в локомотив IT индустрии в качестве мануального тестировщика. Мне посчастливилось пройти обучение у Артема Русова, тестировщика с именем и аудиторией более 158.000 человек. В основном обучался тестированию веб-приложений (front + back).,тестированию документации, однако так же разбирал и практиковал тестирование мобильных приложений на базе Android и IOS.
 
-- 📫 Как связаться со мной:[![mail Badge](https://img.shields.io/badge/-mail-blue?style=flat&logo=Gmail&logoColor=white)](mailto:bagirov.eldar@bk.ru)
+- 📫 Как связаться со мной:  [![mail Badge](https://img.shields.io/badge/-mail-blue?style=flat&logo=Gmail&logoColor=white)](mailto:bagirov.eldar@bk.ru)
 
 ---
 
@@ -13,7 +14,7 @@
 
  <div id="badges">
     <a href="https://vk.com/el__darito" target="_blank">
-  <img src="https://img.freepik.com/premium-vector/modern-badge-vkontakte-icon_578229-170.jpg" width="40" height="40" alt="linkedin" />
+  <img src="https://img.freepik.com/premium-vector/modern-badge-vkontakte-icon_578229-170.jpg" width="50" height="50" alt="vk" />
     </a>
     <a href="https://t.me/eldar_bagirov" target="_blank">
    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
