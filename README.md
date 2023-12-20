@@ -84,5 +84,3 @@
 | coreapp.ai/Функциональное тестирование ПО                           | 09/2023 - 12/2023 |
 
 --- -->
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=EldarBagirov)
