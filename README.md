@@ -1,10 +1,10 @@
-# Приветствую, с вами начинающий тестировщик Эльдар!
+# Привет, я начинающий QA Engineer Эльдар!
 
-<div align = "center" ><img src="https://media.giphy.com/media/BdhtvnPILhdYs/giphy.gif" width="500"/> </div>
+<div align = "center" ><img src="https://media.giphy.com/media/BdhtvnPILhdYs/giphy.gif" width="400"/> </div>
 ---
 
 ### 👨‍💻 Немного обо мне:
-Технологии и интернет идут вперед семимиотными шагами, я решил не отставать и запрыгнуть в локомотив IT индустрии в качестве мануального тестировщика. Мне посчастливилось пройти обучение у Артема Русова, тестировщика с именем и аудиторией более 158.000 человек. В основном обучался тестированию веб-приложений (front + back).,тестированию документации, однако так же разбирал и практиковал тестирование мобильных приложений на базе Android и IOS.
+Технологии и интернет идут вперед семимильными шагами, я решил не отставать и запрыгнуть в локомотив IT индустрии в качестве мануального тестировщика. Мне посчастливилось пройти обучение у Артема Русова, тестировщика с именем и аудиторией более 158.000 человек. В основном обучался тестированию веб-приложений (front + back),тестированию документации, однако так же разбирал и практиковал тестирование мобильных приложений, на базе Android и IOS, перехват трафика, тестирование базы данных.
 
 - 📫 Как связаться со мной: 
 
@@ -19,14 +19,24 @@
 
 ---
 
+<h2>Тестовые артефакты </h2>
+<p> 
+ <ul>
+<li>  <a href="https://github.com/EldarBagirov/Testing_documentation">Testing Documentation</a>  </li>
+<li>  <a href="https://github.com/EldarBagirov/Web_app_testing">Web App Testing</a>   </li>
+<li> <a href="https://github.com/EldarBagirov/Api_testing">API Testing</a>   </li>
+<li>  <a href="https://github.com/EldarBagirov/SQL">MySQL</a>  </li>
+<li>  <a href="https://github.com/EldarBagirov/MongoDB">MongoDB</a>   </li>
+<li> <a href="https://github.com/EldarBagirov/Mobile_App_testing">Mobile App Testing</a>  </li>
+<li> <a href="https://github.com/EldarBagirov/bash.git">Bash</a> </li>
+</ul>
+</p>
+
 ### 📁 Тестовая документация:
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="40" height="40"/>&nbsp
-  <img src="https://codahosted.io/packs/21236/unversioned/assets/LOGO/ba1091c59bab89cd2fd0f289622731fe16113d7b00905abe64759c313a4b73b76c1b0426076ed76cb74752234c734131df46992d5b8b48fc13e264240e4f7119f736cfeb64df36ded54b5cbf6198b9cadedf18dd0cac5c7dbcd16e6336c29363cd1292ba" title="testrail" alt="tetstrail" width="40" height="40"/>&nbsp
   <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
 </div>
 
 ---
